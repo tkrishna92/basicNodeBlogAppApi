@@ -4,7 +4,8 @@ appConfig.port = 3000;
 appConfig.allowedCorsOrigin = "*";
 appConfig.environment = "dev";
 appConfig.db = {
-    uri: "mongodb://test-test@127.0.0.1:27017/blogAppDB",
+    
+    uri: "mongodb://127.0.0.1:27017/blogAppDB",    // localhost:27017
 }
 appConfig.apiVersion = "/api/v1";
 

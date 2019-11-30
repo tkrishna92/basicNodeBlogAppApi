@@ -1,0 +1,16 @@
+define({
+  "name": "Blog Application",
+  "version": "0.0.1",
+  "description": "API documentation for blog application",
+  "title": "blog api",
+  "url": "http://localhost:3000",
+  "sampleUrl": false,
+  "defaultVersion": "0.0.0",
+  "apidoc": "0.3.0",
+  "generator": {
+    "name": "apidoc",
+    "time": "2019-11-18T17:57:58.832Z",
+    "url": "http://apidocjs.com",
+    "version": "0.18.0"
+  }
+});
